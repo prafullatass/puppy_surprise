@@ -27,3 +27,7 @@ body{
 .visible {
     opacity: 100;
 }
+.huge_pic {
+    width: 500px;
+    height: 500px;
+}
