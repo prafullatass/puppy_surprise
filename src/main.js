@@ -1,1 +1,1 @@
-// Create a function that will toggle the puppy from hidden to visible
+// Create a function that will show and hide the puppy!
